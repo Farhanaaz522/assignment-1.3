@@ -1,0 +1,30 @@
+Assignment 1.3
+
+Question.1
+what are different methods to call a function in R?
+
+answer:
+There are four ways to call a function in R
+a.We can call a function by supplying a value as an argument.
+example: newfunction(5)
+b.We can call a function without supplying an argument.
+example: newfunction()
+c.We can call a function with argument values(by position and by name).
+example: newfunction(a,b,c) by position newfunction(5,3,11) or by name as newfunction(a=5,b=4,c=10)
+d.calling a function with default argument.
+example:In the function definatio function(a=2,b=1)
+
+Question.2
+The lazy evaluation of a function means,the argument is evaluated only if it is used inside the body of a function(say true or false).
+answer: False
+
+Question.3 True or false
+a.Insights driven from  descriptive analytics is not meaningful
+answer:False
+b.The number of values in each elements of a list ,should be equal.
+answer:false
+c.The datasets are not stored in memory of the computer using R.
+answer:True
+d.Dataframes and matrices are two dimentional however the array is multidimentional.
+answer:True
+
